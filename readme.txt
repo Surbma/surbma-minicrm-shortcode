@@ -4,7 +4,7 @@ Donate link: http://surbma.com/
 Tags: MiniCRM, shortcode
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,7 +18,8 @@ The shortcode: `[minicrm id="THIS_IS_THE_ID"]`
 
 Where id is the MiniCRM form id, that you want to display.
 
-You can find the id at the end of your MiniCRM form script: `<script src="https://r3.minicrm.hu/api/loader.js?THIS_IS_THE_ID"></script>`
+You can find the id at the end of your MiniCRM form script:
+`<script src="https://r3.minicrm.hu/api/loader.js?THIS_IS_THE_ID"></script>`
 
 == Installation ==
 
@@ -41,6 +42,11 @@ No, you can't. You can control the look of your form in your MiniCRM admin area.
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.0.1 =
+
+- Added localization.
+- Added hungarian translation.
 
 = 1.0.0 =
 

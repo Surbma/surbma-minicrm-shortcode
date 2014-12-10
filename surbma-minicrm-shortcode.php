@@ -5,7 +5,7 @@ Plugin Name: Surbma - MiniCRM Shortcode
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: A simple shortcode to include MiniCRM forms into WordPress.
 
-Version: 1.0.0
+Version: 1.0.1
 
 Author: Surbma
 Author URI: http://surbma.com/
