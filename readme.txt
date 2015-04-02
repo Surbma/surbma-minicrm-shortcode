@@ -3,8 +3,8 @@ Contributors: Surbma
 Donate link: http://surbma.com/
 Tags: MiniCRM, shortcode
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 1.0.1
+Tested up to: 4.1
+Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,6 +42,11 @@ No, you can't. You can control the look of your form in your MiniCRM admin area.
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.0.2 =
+
+- Fix localization.
+- Prevent direct access to the plugin.
 
 = 1.0.1 =
 
