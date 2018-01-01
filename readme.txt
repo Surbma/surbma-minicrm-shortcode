@@ -1,4 +1,4 @@
-=== MiniCRM Shortcode ===
+=== Surbma - MiniCRM Shortcode ===
 Contributors: Surbma
 Donate link: http://surbma.com/donate/
 Tags: MiniCRM, shortcode
